@@ -1,6 +1,6 @@
 # Node Girls FAQ
 
-## What is Node Girls?
+### What is Node Girls?
 
 Node Girls runs free bootcamps in Node.js for women, inspired by [Rails Girls](http://railsgirls.com/) and [Django Girls](https://djangogirls.org/). Right now we're just in London, but we hope to spread the Node love around the globe very soon.
 
@@ -32,4 +32,4 @@ Yes please! We'd love sponsorship to help cover the costs of running our events.
 
 ### Where can I apply for the first event?
 
-You can now apply for our first one-day event at Stack Overflow [here](https://nodegirls.typeform.com/to/atW4HR)! Follow us [on twitter](http://www.twitter.com/nodegirlsldn) for updates.
+You can now apply for our first one-day event at Stack Overflow [here](https://nodegirls.typeform.com/to/atW4HR)! Follow us [on twitter](http://www.twitter.com/nodegirls_ldn) for updates.
