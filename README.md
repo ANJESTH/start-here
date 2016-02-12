@@ -12,7 +12,7 @@ In the future we hope to add higher-level Node.js workshops. If there's a partic
 
 ### Who is Node Girls for?
 
-Node Girls is a women-only organisation, open to all female-identified people, including trans* women. The organisation is for all ages, although more specifically aimed at women with some background in coding.
+Node Girls is a women-only organisation, open to all female-identified and non-binary people, including trans* women. The organisation is for all ages, although more specifically aimed at women with some background in coding.
 
 ### Do I need to know JavaScript?
 
@@ -29,7 +29,3 @@ Awesome! We'd love female mentors with Node.js experience to help out with the w
 ### I want to sponsor Node Girls
 
 Yes please! We'd love sponsorship to help cover the costs of running our events. Drop us a message: nodegirlslondon@gmail.com
-
-### Where can I apply for the first event?
-
-You can now apply for our first one-day event at Stack Overflow [here](https://nodegirls.typeform.com/to/atW4HR)! Follow us [on twitter](http://www.twitter.com/nodegirls_ldn) for updates.
