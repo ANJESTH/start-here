@@ -2,30 +2,24 @@
 
 ### What is Node Girls?
 
-Node Girls runs free bootcamps in Node.js for women, inspired by [Rails Girls](http://railsgirls.com/) and [Django Girls](https://djangogirls.org/). Right now we're just in London, but we hope to spread the Node love around the globe very soon.
-
-### What does a Node Girls event involve?
-
-At the moment we're running one-day introductory Node.js workshops. This involves building a Node.js server from scratch, and an introduction to testing your server code. You should leave with a basic understanding of Node, and resources to progress further with your learning.
-
-In the future we hope to add higher-level Node.js workshops. If there's a particular workshop you'd like to see (or run!), raise an issue on this repo.
-
-### Who is Node Girls for?
-
-Node Girls is a women-only organisation, open to all female-identified and non-binary people, including trans* women. The organisation is for all ages, although more specifically aimed at women with some background in coding.
-
-### Do I need to know JavaScript?
-
-Yes. This is not an introduction to writing JavaScript. In order to learn Node you will need to be fairly confident with JavaScript.
-
-### Do I need to know another back end language?
-
-No. Experience with another server-side language such as Python might be helpful, but it is *definitely* not required. Front end developers are very welcome.
+Node Girls runs free bootcamps in JavaScript and Node.js for women, non-binary and trans folk. We were inspired by [Rails Girls](http://railsgirls.com/) and [Django Girls](https://djangogirls.org/) to create something awesome for the JavaScript community. Right now there are chapters running around the world.
 
 ### I want to help out or mentor at Node Girls
 
-Awesome! We'd love female mentors with Node.js experience to help out with the workshop. Send us an email: nodegirlslondon@gmail.com
+Awesome! All our chapters are always in need of mentors with JavaScript and Node.js experience to help out with workshops. Note that in some cities the mentoring team is limited to women and non-binary folk. You'll find contact details for each chapter on [our website](https://github.com/node-girls/start-here.git), or just email nodegirlslondon@gmail.com and we'll send you to the right place.
 
 ### I want to sponsor Node Girls
 
-Yes please! We'd love sponsorship to help cover the costs of running our events. Drop us a message: nodegirlslondon@gmail.com
+Yes please! All chapters greatly appreciate sponsorship to help cover the costs of running events. Contact a chapter directly, or drop a message to nodegirlslondon@gmail.com.
+
+### Can I start a chapter of Node Girls?
+
+Absolutely. We have open sourced all our workshop materials so you can easily run a Node Girls event in your city. We are also working on open source guides to setting up and running a chapter. If you want to run a Node Girls event, get in touch so we can list you on our website and collaborate on awesome things: nodegirlslondon@gmail.com.
+
+### Does Node Girls have a Code of Conduct?
+
+[Yes](https://github.com/node-girls/code-of-conduct).
+
+### Where can I find out more?
+
+All upcoming events around the world are listed on [our website](http://nodegirls.io). On the website you can also find links to contact each chapter.
