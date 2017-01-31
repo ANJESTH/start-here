@@ -6,7 +6,7 @@ Node Girls runs free bootcamps in JavaScript and Node.js for women, non-binary a
 
 ### I want to help out or mentor at Node Girls
 
-Awesome! All our chapters are always in need of mentors with JavaScript and Node.js experience to help out with workshops. Note that in some cities the mentoring team is limited to women and non-binary folk. You'll find contact details for each chapter on [our website](https://github.com/node-girls/start-here.git), or just email nodegirlslondon@gmail.com and we'll send you to the right place.
+Awesome! All our chapters are always in need of mentors with JavaScript and Node.js experience to help out with workshops. Note that in some cities the mentoring team is limited to women and non-binary folk. You'll find contact details for each chapter on [our website](http://nodegirls.io/), or just email nodegirlslondon@gmail.com and we'll send you to the right place.
 
 ### I want to sponsor Node Girls
 
